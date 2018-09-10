@@ -1,0 +1,7 @@
+{
+  "name": "agriness-app-melhores",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
