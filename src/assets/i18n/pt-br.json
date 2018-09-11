@@ -1,4 +1,10 @@
 {
+  "welcome": {
+    "login": "PARTICIPO DOS MELHORES",
+    "signup": "QUERO PARTICIPAR",
+    "technology": "Technology by"
+  },
+
   "BACK_BUTTON_TEXT": "Voltar",
 
   "NAME": "Nome",
