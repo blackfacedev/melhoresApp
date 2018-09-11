@@ -1,7 +1,7 @@
 page-welcome {
   .splash-bg {
     position: relative;
-    background: url('../assets/img/splashbg.png') no-repeat transparent;
+    background: url('../assets/imgs/welcome-background.png') no-repeat transparent;
     background-size: cover;
     height: 100%;
     z-index: 1;
@@ -13,14 +13,6 @@ page-welcome {
     z-index: 2;
     padding-top: 128px;
     text-align: center;
-  }
-
-  .splash-logo {
-    margin: auto;
-    background: url('../assets/img/appicon.png') repeat transparent;
-    background-size: 100%;
-    width: 128px;
-    height: 128px;
   }
 
   .agriness-logo {
@@ -46,11 +38,12 @@ page-welcome {
   .footer {
     position: fixed;
     left: 0;
-    bottom: 20px;
+    bottom: 38px;
     width: 100%;
     text-align: center;
 
     .text {
+      font-size: 11px;
       color: white;
       padding-bottom: 10px;
     }
