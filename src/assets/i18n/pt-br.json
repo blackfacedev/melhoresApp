@@ -4,6 +4,14 @@
     "signup": "QUERO PARTICIPAR",
     "technology": "Technology by"
   },
+  "login": {
+    "email": "E-mail",
+    "password": "Senha",
+    "remember": "Lembrar",
+    "forgotPassword": "Esqueceu a senha",
+    "enter": "Entrar",
+    "signup": "Quero participar"
+  },
 
   "BACK_BUTTON_TEXT": "Voltar",
 
