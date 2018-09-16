@@ -10,6 +10,7 @@
             <ion-input type="email" [(ngModel)]="account.email" name="email"></ion-input>
           </ion-item>
 
+
           <ion-item no-lines>
             <ion-label stacked>{{ 'login.password' | translate }}</ion-label>
             <ion-input type="password" [(ngModel)]="account.password" name="password"></ion-input>
@@ -27,7 +28,7 @@
               </ion-row>
             </ion-col>
             <ion-col>
-                <a ion-item no-lines item-right class="link">{{ 'login.forgotPassword' | translate }}</a>
+              <a ion-item no-lines item-right class="link">{{ 'login.forgotPassword' | translate }}</a>
             </ion-col>
           </ion-row>
         </ion-grid>
